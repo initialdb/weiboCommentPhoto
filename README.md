@@ -1,1 +1,2 @@
 # weiboCommentPhoto
+从weiboPhoto演化而来，因为我发现有用的表情包几乎不存在在普通用户的相册中，而是在某些大V用户的评论里面。
